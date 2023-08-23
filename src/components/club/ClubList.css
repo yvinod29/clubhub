@@ -1,0 +1,10 @@
+ /* EventList.css */
+.event-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  /* You can adjust the margins and other styles as needed */
+  

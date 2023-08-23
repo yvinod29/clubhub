@@ -19,15 +19,15 @@
   }
   .centered-text {
     position: fixed;
-    top: 50%;
+    top: 4%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Dancing Script';
-    font-size: 150px;
+    font-size: 50px;
     font-weight: bold;
-
-    background-color: black;
-
+    color:black;
+    
+     
   }
   
   .signin-button {
